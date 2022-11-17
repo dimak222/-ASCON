@@ -157,3 +157,6 @@ cython_debug/
 # My Test directory
 /Тест
 /Архив
+
+# My exe directory
+/exe
